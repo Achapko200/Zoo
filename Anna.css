@@ -1,0 +1,57 @@
+/* Set the background color of the entire page */
+body {
+    background-color: #d8bfd8; /* Light purple color */
+    color: #333; /* Dark text for contrast */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Style the navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #4b0082; /* Indigo color for contrast */
+    padding: 10px;
+}
+
+.topnav a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #7b68ee; /* Medium purple */
+    color: black;
+}
+
+/* Style the headings */
+h1, h2, h3, h4 {
+    color: #4b0082; /* Indigo */
+}
+
+/* Add space between sections */
+h2, h3, h4 {
+    margin-top: 40px;
+}
+
+/* Style the images */
+img {
+    display: block;
+    margin: 10px 0;
+    border: 2px solid #4b0082; /* Indigo border */
+}
+
+/* Style the paragraphs */
+p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Set styles for different sections */
+h2, h3, h4 {
+    margin-top: 30px;
+}
