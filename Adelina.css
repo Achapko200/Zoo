@@ -1,0 +1,47 @@
+/* Container for responsive layout */
+.container {
+    display: flex;
+    flex-wrap: wrap; /* Wrap items to the next line */
+    gap: 12px; /* Space between boxes */
+}
+
+.responsive {
+    flex: 1 1 calc(25% - 12px); /* Adjust width of boxes and accounts for gap */
+    display: flex;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: space-between; /* Space content evenly */
+    border: 1px solid #ccc;
+    box-sizing: border-box; /* Include padding and border in total width and height */
+    padding: 0; /* Remove extra padding */
+    overflow: hidden; /* Prevent overflow */
+    height: 100%; /* Make gallery fill available height */
+    background-image: url('background.jpeg'); /* Replace with your image */
+    background-size: cover; /* Ensure the image covers the element */
+    background-position: center; /* Center the background image */
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6); /* Dark semi-transparent overlay */
+    color: white; /* Text color */
+    box-sizing: border-box; /* Ensure padding is included in total height */
+    margin: 0; /* Remove margin to prevent extra space */
+}
+
+p {
+    text-align: center; /* Center align paragraph text */
+    padding: 15px;
+    margin: 0; /* Remove margin to prevent extra space */
+    color: white; /* Text color */
+    background-color: rgba(0, 0, 0, 0.6); /* Dark semi-transparent overlay */
+}
