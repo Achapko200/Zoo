@@ -3,9 +3,9 @@ A comprehensive zoo website that showcases various animals through dedicated web
 This project includes detailed descriptions, images, and links to different animal pages.
 
 # Group Members
-Adelina Dautovic
-Michelle Khanan
-Anna Chapko
+- Adelina Dautovic
+- Michelle Khanan
+- Anna Chapko
 
 ## Features
 - Detailed information about various animals.
