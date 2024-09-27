@@ -3,12 +3,9 @@ A comprehensive zoo website that showcases various animals through dedicated web
 This project includes detailed descriptions, images, and links to different animal pages.
 
 # Group Members
-- Adelina Dautovic
-  username: ade6l9
-- Michelle Khanan
-  usernmae: michellekhanan 
-- Anna Chapko
-  username: Achapko200 
+- Adelina Dautovic - username: ade6l9
+- Michelle Khanan - usernmae: michellekhanan 
+- Anna Chapko - username: Achapko200 
 
 ## Features
 - Detailed information about various animals.
