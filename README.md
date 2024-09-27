@@ -4,8 +4,11 @@ This project includes detailed descriptions, images, and links to different anim
 
 # Group Members
 - Adelina Dautovic
+  username: ade6l9
 - Michelle Khanan
+  usernmae: michellekhanan 
 - Anna Chapko
+  username: Achapko200 
 
 ## Features
 - Detailed information about various animals.
